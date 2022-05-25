@@ -1,16 +1,16 @@
 /*  My styles */
-#autum {
-    font-size: 115px;
-    display: grid;
-    justify-content: center;
-    align-items: center;
-  }
-  body {
-    height: 100vh;
-    background: lightcoral;
-  }
-  #text {
-    font-size: 100px;
-    height: 30px;
-    font-family: "Lucida Handwriting", cursive;
-  }
+#leaves {
+  font-size: 115px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  height: 100vh;
+  background: lightcoral;
+}
+#text {
+  font-size: 100px;
+  height: 30px;
+  font-family: "Lucida Handwriting", cursive;
+}
